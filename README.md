@@ -38,12 +38,12 @@ githubUsername: 'DjukaMarko'
 ![TensorFlow]
 ![ML Concepts]
 
-**Soft Skill**
-![Observation]
-![Decision making]
-![Communication]
-![Multi-tasking]
-![Problem solving]
+**Soft Skill**:
+Observation
+Decision making
+Communication
+Multi-tasking
+Problem solving
 
 **Web/Full Stack projects**
 
