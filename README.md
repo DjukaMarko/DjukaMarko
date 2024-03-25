@@ -5,7 +5,7 @@ categories: ["engineering", "coding", "all-profile"]
 githubUsername: 'DjukaMarko'
 ---
 
-[![Marko Djukic](https://img.shields.io/badge/-Marko%20Djukic-000000?style=for-the-badge&logo=react&logoColor=white)]
+![Marko Djukic](https://img.shields.io/badge/-Marko%20Djukic-000000?style=for-the-badge&logo=react&logoColor=white)
 
 **Languages I have used**
 
