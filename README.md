@@ -18,7 +18,7 @@ githubUsername: 'DjukaMarko'
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-**Some of the technologies I have worked with**
+**Hard Skill**
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
@@ -27,6 +27,23 @@ githubUsername: 'DjukaMarko'
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat)
+![Docker]
+![DevOps]
+![ExpressJS]
+![MongoDB]
+![PostgreSQL]
+![Vercel]
+![Visual Studio Code]
+![TensorFlow]
+![ML Concepts]
+
+**Soft Skill**
+![Observation]
+![Decision making]
+![Communication]
+![Multi-tasking]
+![Problem solving]
 
 **Web/Full Stack projects**
 
