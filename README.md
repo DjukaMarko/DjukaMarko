@@ -32,10 +32,10 @@ githubUsername: 'DjukaMarko'
 ![DevOps](https://img.shields.io/badge/-DevOps-000000?style=for-the-badge)
 ![ExpressJS](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudio)
+![TensorFlow](https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=tensorflow)
 ![ML Concepts](https://img.shields.io/badge/-ML-000000?style=for-the-badge)
 
 **Soft Skill**:
