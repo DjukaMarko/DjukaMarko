@@ -39,10 +39,10 @@ githubUsername: 'DjukaMarko'
 ![ML Concepts]
 
 **Soft Skill**:
-Observation
-Decision making
-Communication
-Multi-tasking
+Observation,
+Decision making,
+Communication,
+Multi-tasking,
 Problem solving
 
 **Web/Full Stack projects**
