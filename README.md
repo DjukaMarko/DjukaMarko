@@ -27,7 +27,7 @@ githubUsername: 'DjukaMarko'
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat)
 ![DevOps](https://img.shields.io/badge/-DevOps-000000?style=flat)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat)
