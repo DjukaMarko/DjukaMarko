@@ -28,15 +28,15 @@ githubUsername: 'DjukaMarko'
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000000?style=flat&logo=cisco&logoColor=white)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat)
-![Docker]
-![DevOps]
-![ExpressJS]
-![MongoDB]
-![PostgreSQL]
-![Vercel]
-![Visual Studio Code]
-![TensorFlow]
-![ML Concepts]
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat)
+![DevOps](https://img.shields.io/badge/-DevOps-000000?style=flat)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat)
+![ML Concepts](https://img.shields.io/badge/-ML-000000?style=flat)
 
 **Soft Skill**:
 Observation,
