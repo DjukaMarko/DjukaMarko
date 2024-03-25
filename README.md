@@ -5,9 +5,7 @@ categories: ["engineering", "coding", "all-profile"]
 githubUsername: 'DjukaMarko'
 ---
 
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[![adamalston.com](https://img.shields.io/badge/-Marko%20Djukic-000000?style=for-the-badge&logo=react&logoColor=white)]
+[![Marko Djukic](https://img.shields.io/badge/-Marko%20Djukic-000000?style=for-the-badge&logo=react&logoColor=white)]
 
 **Languages I have used**
 
